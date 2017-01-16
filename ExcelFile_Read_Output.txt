@@ -1,0 +1,9 @@
+run:
+Band     		Album          		        Year Released		 
+ 		 		 		 
+Helix    		Walkin' the Razors Edge		1984		 
+Nine Inch Nails		Hesitation Marks		2013		 
+Weezer    		The Blue Album    		1994		 
+Metallica		Master of Puppets		1986		 
+Soundgarden		Badmotorfinger    		1991		 
+BUILD SUCCESSFUL (total time: 0 seconds)
